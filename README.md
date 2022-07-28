@@ -1,9 +1,12 @@
 TypeScript Webpack Near View My NFT Demo
 =================================
 
-登录near的testnet后，如何查看自己拥有的nft。
+Suppose we already know self accountId, we can get our NFTs by `near-js-api`
 
-TODO: 还没搞定
+Question:
+
+Do we have to use an indexer to get the nft-like contract names?
+Can we just use `near-js-api` to do all the things?
 
 ```
 npm install
